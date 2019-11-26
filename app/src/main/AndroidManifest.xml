@@ -9,6 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".QuintaTela"></activity>
+        <activity android:name=".QuartaTela" />
+        <activity android:name=".TerceiraTela" />
+        <activity android:name=".SegundaTela" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

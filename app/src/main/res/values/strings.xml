@@ -1,3 +1,15 @@
-<resources>
+<string-array>
     <string name="app_name">glicemy-control</string>
-</resources>
+    <string-array name="alimentos">
+        <item>brigadeiro</item>
+        <item>maça</item>
+        <item>pera</item>
+        <item>banana</item>
+    </string-array>
+    <string-array name="quantidades">
+        <item>um grama</item>
+        <item>dez gramas</item>
+        <item>cem gramas</item>
+        <item>duzentos e cinquenta gramas</item>
+    </string-array>
+</string-array>
